@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "恋のナックルボール (EACH TIME 40th Anniversary version)",
+  "base_artist": "Eiichi Ohtaki",
+  "createdAt": "2026-03-27T12:50:43.245502Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "恋のナックルボール",
+      "artist": "大滝詠一",
+      "has_synced": false,
+      "path": "select/01_恋のナックルボール_大滝詠一.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "恋のナックルボール",
+      "artist": "大滝 詠一",
+      "has_synced": false,
+      "path": "select/pl_01_恋のナックルボール_大滝_詠一.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "恋のナックルボール [1st Recording Version]",
+      "artist": "大滝 詠一",
+      "has_synced": false,
+      "path": "select/pl_02_恋のナックルボール_[1st_Recording_Version]_大滝_詠一.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "恋のナックルボール [1st Recording Version]",
+      "artist": "大滝 詠一",
+      "has_synced": false,
+      "path": "select/pl_03_恋のナックルボール_[1st_Recording_Version]_大滝_詠一.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "恋のナックルボール [1st Recording Version]",
+      "artist": "大滝 詠一",
+      "has_synced": false,
+      "path": "select/pl_04_恋のナックルボール_[1st_Recording_Version]_大滝_詠一.txt"
+    }
+  ]
+}
